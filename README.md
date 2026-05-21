@@ -56,7 +56,7 @@
 
 <h5><strong>2.3 Modelo Simple</strong></h5>
 <a id="2.3_"></a>
-<p align="justify">&emsp;Os resultados por dataset do gridsearch para o modelo SimpleRNN pode ser vistos na Imagem (3).</p>
+<p align="justify">&emsp;O Exmplo de um resultado por dataset do gridsearch para o modelo SimpleRNN pode ser vistos na Imagem (3).</p>
 
 <p align="center">Imagem (3)<br>
 <img src="https://github.com/user-attachments/assets/d7d778fc-691d-4119-9d15-7a46fd04b160" alt=0></p>
@@ -64,10 +64,8 @@
 <p align="justify">&emsp;Abaixo, na Imagem (4), pode ser observado o resultado da aplicação do modelo SimpleRNN.</p>
 
 <p align="center">Imagem (4)<br>
-<img src="https://github.com/user-attachments/assets/d7d778fc-691d-4119-9d15-7a46fd04b160" alt=0></p>
-
-<p align="center">Imagem (4)<br>
-<img src="" alt=0></p>
+<img width="1018" height="398" alt="image5" src="https://github.com/user-attachments/assets/003c565a-ab17-4ef1-9af1-acbfb94fa24f" />
 
 <h5><strong>2.4 Modelo LSTM</strong></h5>
-<a id="2.4_"></a>
+<p align="justify">&emsp;Abaixo, na Imagem (5), pode ser observado o resultado da aplicação do modelo LSTM</p>
+  <img width="1018" height="398" alt="image1" src="https://github.com/user-attachments/assets/65105a0f-0a2f-445f-a89c-ff7d37f5e490" />
