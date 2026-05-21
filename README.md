@@ -61,7 +61,10 @@
 <p align="center">Imagem (3)<br>
 <img src="https://github.com/user-attachments/assets/d7d778fc-691d-4119-9d15-7a46fd04b160" alt=0></p>
 
-<p align="justify">&emsp;Abaixo, na Imagem (4), pode ser observado um exemplo de como o modelo se comportou quanto a fase de treino/teste.</p>
+<p align="justify">&emsp;Abaixo, na Imagem (4), pode ser observado o resultado da aplicação do modelo SimpleRNN.</p>
+
+<p align="center">Imagem (4)<br>
+<img src="https://github.com/user-attachments/assets/d7d778fc-691d-4119-9d15-7a46fd04b160" alt=0></p>
 
 <p align="center">Imagem (4)<br>
 <img src="" alt=0></p>
